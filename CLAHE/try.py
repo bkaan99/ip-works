@@ -24,4 +24,4 @@ cv2.imshow("gray image", image_bw)
 cv2.imshow("CLAHE image", final_img)
 
 cv2.waitKey(0) & 0xFF is 27
-cv.destroyAllWindows()
+cv2.destroyAllWindows()
